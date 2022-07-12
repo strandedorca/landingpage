@@ -1,8 +1,8 @@
-# PROJECT'S TITLE 
+# Project's Title 
 Odin Project #2 - Landing Page
-# PROJECT'S DESCRIPTION
+# Project's Description
 This is the second project I did following The Odin Project. I decided to make it a bit different from what I was told to do so that I am more interested and engaged. It's probably taken more time than it should but I really enjoy the process and I've learned a lot.
-# CREDITS
+# Credits
 - Pixel Art by: [Toyoi Yuuta](https://1041uuu.tumblr.com/)
 - Hero Art by: [Amy Lee Ketchum](https://cargocollective.com/amyleeketchum)
 # What I've learned
@@ -31,5 +31,5 @@ This is the second project I did following The Odin Project. I decided to make i
 # Useful Websites I've Found
 - Change colors in PNG file: [OnlinePNGTools](https://onlinepngtools.com/change-png-color).
 - Cropping Image: [Online Image Cropping Tool](https://www.img2go.com/crop-image).
-# TO-Do
+# TO-DO
 - Write separated pages/posts for the best practices I've learned through this project.
