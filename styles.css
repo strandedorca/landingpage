@@ -13,14 +13,14 @@ body {
 }
 
 #section0, #section3, #section4 {
-    padding: 50px 250px;
+    padding: 50px 300px;
 }
 
 img {
     width: 100%;
     height: auto;
     border-radius: 10px;
-    /* border: 5px solid #FFF9E8; */
+    border: 2px solid #FFF9E8;
 }
 
 #menu, ul, #section1, #rooms, #box {
@@ -101,7 +101,7 @@ h2 {
     color: #FFED98;
 }
 #rooms {
-    gap: 25px 50px;
+    gap: 25px 80px;
     flex-wrap: wrap;
     align-items: flex-start;
     justify-content: center;
@@ -115,9 +115,9 @@ h2 {
     background-attachment: fixed;
     background-position: bottom;
     font-size: 2em;
-    padding: 125px 400px;
+    padding: 125px 500px;
     color: #123A5C;
-    text-shadow: 0 0 0.8em rgb(255, 255, 255);
+    text-shadow: 0 0 1em #ffffff;
 }
 #section3 * {
     margin: 0px;
