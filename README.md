@@ -18,7 +18,7 @@ This is the second project I did following The Odin Project. I decided to make i
 - HTML quotes: `<q>` & `<blockquotes>`.
 - CSS - Rounded corners: `border-radius`.
 - CSS - Set auto sizes for images: `img {width: 100%}`.
-- CSS - `background-image: url(""), url("");`, `background-position`, `background-repeat`, `background-size`, background-attachment: fixed`.
+- CSS - `background-image: url(""), url("");`, `background-position`, `background-repeat`, `background-size`, `background-attachment: fixed`.
 - CSS - Image filter: `filter`.
 - CSS - `text-shadow`.
 - CSS - Changes on hover/clicks: `element:hover`, `element:active`.
