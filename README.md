@@ -1,5 +1,6 @@
 # Project's Title 
 Odin Project #2 - Landing Page
+Live Preview: https://strandedorca.github.io/landingpage/
 # Project's Description
 This is the second project I did following The Odin Project. I decided to make it a bit different from what I was told to do so that I am more interested and engaged. It's probably taken more time than it should but I really enjoy the process and I've learned a lot.
 # Credits
