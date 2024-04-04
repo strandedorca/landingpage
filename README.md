@@ -32,5 +32,3 @@ This is the second project I did following The Odin Project. I decided to make i
 # Useful Websites I've Found
 - Change colors in PNG file: [OnlinePNGTools](https://onlinepngtools.com/change-png-color).
 - Cropping Image: [Online Image Cropping Tool](https://www.img2go.com/crop-image).
-# TO-DO
-- Write separated pages/posts for the best practices I've learned through this project.
