@@ -1,4 +1,4 @@
-# Project's Title 
+# Language Learning Website Landing Page
 Odin Project #2 - Landing Page
 Live Preview: https://strandedorca.github.io/landingpage/
 # Project's Description
